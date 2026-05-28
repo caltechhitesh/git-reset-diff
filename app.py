@@ -1,6 +1,6 @@
-# Simple Python Program
 
-name = "Hitesh and suresh"
+
+name = "suresh"
 age = 30
 
 print("My name is", name)
