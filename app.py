@@ -1,6 +1,6 @@
 
 
-name = "Amitabh Bachchan and Jaya"
+name = "kamlekar"
 age = 30
 
 print("My name is", name)
