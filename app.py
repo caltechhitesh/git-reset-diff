@@ -1,6 +1,6 @@
 
 
-name = "srilanka"
+name = "Australia"
 age = 30
 
 print("My name is", name)
