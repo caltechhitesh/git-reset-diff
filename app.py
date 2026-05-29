@@ -1,15 +1,26 @@
 
 
-name = "china"
-age = 30
+# Student Marks Calculator
 
-print("My name is", name)
-print("My age is", age)
+student_name = "Rahul"
 
-# Function to add two numbers
-def add(a, b):
-    return a + b
+maths = 85
+science = 90
+english = 78
 
-result = add(10, 20)
+total = maths + science + english
+average = total / 3
 
-print("Addition Result:", result)
+print("Student Name:", student_name)
+print("Maths Marks:", maths)
+print("Science Marks:", science)
+print("English Marks:", english)
+
+print("Total Marks:", total)
+print("Average Marks:", average)
+
+# Result Check
+if average >= 40:
+    print("Result: Pass")
+else:
+    print("Result: Fail")
