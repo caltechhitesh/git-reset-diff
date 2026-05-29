@@ -1,6 +1,6 @@
 # Student Marks Calculator
 
-student_name = "hitesh"
+student_name = "hitesh and sachin"
 
 maths = 85
 science = 90
